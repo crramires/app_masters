@@ -1,1 +1,1 @@
-# app_masters
+Projeto de seleção paraa App Master, Link: https://appmasters.io/pt/.
