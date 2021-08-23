@@ -1,1 +1,1 @@
-Projeto de seleção paraa App Master, Link: https://appmasters.io/pt/.
+Projeto de seleção para App Master, Link: https://appmasters.io/pt/.
